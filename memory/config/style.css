@@ -1,0 +1,44 @@
+h1{ 
+    text-align: center;
+}
+h3{ 
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size:larger;
+}
+button {
+    margin:auto;
+    display:block;
+}
+label {
+    text-align: center;
+    margin:auto;
+    display:block;
+}
+#main {
+    background-color: lightgrey;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 20px;
+    width:35%;
+    margin: auto;
+}
+input {
+    margin: auto;
+    display:block;
+}
+body {
+    background-color: darkblue;
+}
+table {
+    border-collapse: collapse; 
+    background-color:white;
+    margin: auto;
+}
+td {
+    border: 1px solid black;
+    font-size:larger;
+    text-align: center;                
+}
